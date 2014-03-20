@@ -1,6 +1,7 @@
 *.pyc
 .DS_Store
 _build
+.tox
 .*.sw[po]
 *.egg-info
 dist
